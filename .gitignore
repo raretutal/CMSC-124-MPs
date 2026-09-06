@@ -8,7 +8,7 @@
 node_modules/
 
 # Compiled Object files
-*.slo
+*.slo  
 *.lo
 *.o
 *.obj
