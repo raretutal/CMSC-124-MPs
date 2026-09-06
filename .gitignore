@@ -4,6 +4,9 @@
 # configurations
 .vscode
 
+# for javascript/typescript stuff
+node_modules/
+
 # Compiled Object files
 *.slo
 *.lo
