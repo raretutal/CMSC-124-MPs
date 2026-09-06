@@ -12,14 +12,12 @@ Topic Coverage: Background and Preliminaries
 
 4. Now, evaluate each PL according to the different language evaluation criteria discussed in class. 
 
-<div style="padding-left: 2em;">
-Readability – Consider the following characteristics that contribute to the readability of a language: simplicity , orthogonality , control statements , data types and structures , and syntax designs . 
+        Readability – Consider the following characteristics that contribute to the readability of a language: simplicity , orthogonality , control statements , data types and structures , and syntax designs . 
 
-Writability – Consider the following characteristics that contribute to the writability of a language: simplicity , orthogonality , and expressivity . 
+        Writability – Consider the following characteristics that contribute to the writability of a language: simplicity , orthogonality , and expressivity . 
 
-Reliability – Consider the following characteristics that contribute to the reliability of a language: type checking , exception handling , and aliasing . 
+        Reliability – Consider the following characteristics that contribute to the reliability of a language: type checking , exception handling , and aliasing . 
 
-</div>
 5. Indicate the paradigm(s) of your chosen PLs. Remember that a PL can have one or more paradigms (as applicable), so list down all applicable paradigm(s). 
 
 6. Describe the method of implementation for every PL you have chosen (Is it compilation? Interpretation? Hybrid?). Explain in detail what happens to your source code upon compilation, down to execution. 
